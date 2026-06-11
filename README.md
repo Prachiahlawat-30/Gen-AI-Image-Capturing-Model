@@ -83,11 +83,6 @@ Salesforce BLIP Image Captioning Model:
 * Image tagging
 * Cloud deployment
 
-## Demo
-
-The application allows users to upload an image and generate a descriptive caption using the BLIP model.
-
-![Demo Screenshot](screenshots/demo.png)
 
 ## Author
 
